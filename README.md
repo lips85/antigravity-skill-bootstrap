@@ -8,18 +8,46 @@
 **Antigravity Skill Bootstrap**은 **Antigravity**와 **Claude Code**에서 사용할 수 있는 50개 이상의 고성능 스킬들을 **한 번에 설치하고 설정해주는 도구**입니다.
 `agv-skills-setup` 패키지를 통해 복잡한 과정 없이 즉시 에이전트의 능력을 확장할 수 있습니다.
 
-## 📍 목차 (Table of Contents)
+## � 설치 및 사용 (Quick Start)
+
+가장 쉽고 빠른 방법은 `npx`를 사용하는 것입니다.
+
+**현재 프로젝트에 설치 (Local):**
+프로젝트 루트에서 다음 명령어를 실행하면 `.agent/skills` 폴더에 스킬이 설치됩니다.
+```bash
+npx agv-skills-setup -l
+```
+
+**전역 환경에 설치 (Global):**
+Antigravity가 사용하는 글로벌 스킬 경로(`~/.gemini/antigravity/skills`)에 설치됩니다.
+```bash
+npx agv-skills-setup -g
+```
+
+---
+
+### 📦 수동 설치 (Git Clone)
+직접 리포지토리를 복제하여 사용할 수도 있습니다:
+
+```bash
+git clone https://github.com/lips85/antigravity-skill-bootstrap.git .agent/skills
+```
+
+> **참고**: Antigravity 환경에서는 `uv`를 사용하므로, 각 스킬의 `Prerequisites` 섹션을 참고하여 `uv run` 명령어로 스크립트를 실행하는 것이 좋습니다.
+
+Antigravity/Claude Code 모범 사례를 따르는지 확인해주세요.
+
+---
+
+## �📍 목차 (Table of Contents)
 
 - [기능 및 카테고리](#기능-및-카테고리)
 - [전체 스킬 레지스트리](#전체-스킬-레지스트리-5858)
-- [설치 방법](#설치-방법)
 - [기여 방법](#기여-방법)
 - [크레딧 & 출처](#크레딧--출처)
 - [라이선스](#라이선스)
 
-Google Deepmind Antigravity 프레임워크를 사용하든 표준 Anthropic Claude Code CLI를 사용하든, 이 스킬들은 에이전트에 즉시 적용되어 능력을 극대화하도록 설계되었습니다.
-
-이 저장소는 오픈 소스 커뮤니티 전반의 최고의 기능들을 모아, AI 비서를 엔지니어링, 디자인, 보안, 마케팅 및 자율 운영이 가능한 풀스택 디지털 에이전시로 변모시킵니다.
+---
 
 ## 기능 및 카테고리
 
@@ -40,7 +68,7 @@ Google Deepmind Antigravity 프레임워크를 사용하든 표준 Anthropic Cla
 
 아래는 사용 가능한 전체 스킬 목록입니다. 각 스킬 폴더에는 Antigravity 또는 Claude Code로 가져올 수 있는 `SKILL.md`가 포함되어 있습니다.
 
-> **참고**: 스킬 경로는 `.agent/skills/` 기준입니다.
+> **참고**: 스킬 경로는 `skills/` 기준입니다.
 
 | 스킬 이름 (Skill Name) | 설명 (Description) | 경로 (Path) |
 | :--- | :--- | :--- |
@@ -97,24 +125,6 @@ Google Deepmind Antigravity 프레임워크를 사용하든 표준 Anthropic Cla
 > `validate_skills.py` 스크립트를 사용하여 모든 스킬의 형식이 올바른지 확인할 수 있습니다.
 
 ---
-
-## 설치 방법 (Installation)
-
-가장 쉽고 빠른 방법은 `npx`를 사용하는 것입니다.
-
-### 🚀 간편 설치 (Recommended)
-
-**현재 프로젝트에 설치 (Local):**
-프로젝트 루트에서 다음 명령어를 실행하면 `.agent/skills` 폴더에 스킬이 설치됩니다.
-```bash
-npx agv-skills-setup -l
-```
-
-**전역 환경에 설치 (Global):**
-Antigravity가 사용하는 글로벌 스킬 경로(`~/.gemini/antigravity/skills`)에 설치됩니다.
-```bash
-npx agv-skills-setup -g
-```
 
 ### 📦 수동 설치 (Git Clone)
 직접 리포지토리를 복제하여 사용할 수도 있습니다:
