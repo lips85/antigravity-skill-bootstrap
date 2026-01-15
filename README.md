@@ -1,12 +1,12 @@
-# 🌌 Antigravity Awesome Skills
+# 🌌 Antigravity Skill Bootstrap
 
-> **The Ultimate Collection of 50+ Agentic Skills for Claude Code (Antigravity)**
+> **Antigravity Skills Setup & Installer**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Claude Code](https://img.shields.io/badge/AI-Claude%20Code-purple)](https://claude.ai)
-[![Agentic](https://img.shields.io/badge/Agentic-Framework-blue)](https://github.com/guanyang/antigravity-skills)
+[![npm](https://img.shields.io/badge/npm-agv--skills--setup-red)](https://www.npmjs.com/package/agv-skills-setup)
 
-**Antigravity Awesome Skills**는 **Antigravity**와 **Claude Code** 모두와 호환되는 **58개 이상의 고성능 스킬**을 엄선한 컬렉션입니다.
+**Antigravity Skill Bootstrap**은 **Antigravity**와 **Claude Code**에서 사용할 수 있는 50개 이상의 고성능 스킬들을 **한 번에 설치하고 설정해주는 도구**입니다.
+`agv-skills-setup` 패키지를 통해 복잡한 과정 없이 즉시 에이전트의 능력을 확장할 수 있습니다.
 
 ## 📍 목차 (Table of Contents)
 
