@@ -98,12 +98,29 @@ Google Deepmind Antigravity 프레임워크를 사용하든 표준 Anthropic Cla
 
 ---
 
-## 설치 방법
+## 설치 방법 (Installation)
 
-**Antigravity** 또는 **Claude Code**에서 이 스킬들을 사용하려면, 이 저장소를 에이전트의 스킬 디렉토리로 복제하세요:
+가장 쉽고 빠른 방법은 `npx`를 사용하는 것입니다.
+
+### 🚀 간편 설치 (Recommended)
+
+**현재 프로젝트에 설치 (Local):**
+프로젝트 루트에서 다음 명령어를 실행하면 `.agent/skills` 폴더에 스킬이 설치됩니다.
+```bash
+npx agv-skills-setup -l
+```
+
+**전역 환경에 설치 (Global):**
+Antigravity가 사용하는 글로벌 스킬 경로(`~/.gemini/antigravity/skills`)에 설치됩니다.
+```bash
+npx agv-skills-setup -g
+```
+
+### 📦 수동 설치 (Git Clone)
+직접 리포지토리를 복제하여 사용할 수도 있습니다:
 
 ```bash
-git clone https://github.com/sickn33/antigravity-awesome-skills.git .agent/skills
+git clone https://github.com/lips85/antigravity-skill-bootstrap.git .agent/skills
 ```
 
 > **참고**: Antigravity 환경에서는 `uv`를 사용하므로, 각 스킬의 `Prerequisites` 섹션을 참고하여 `uv run` 명령어로 스크립트를 실행하는 것이 좋습니다.
