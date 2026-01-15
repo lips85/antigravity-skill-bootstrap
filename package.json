@@ -1,6 +1,6 @@
 {
   "name": "agv-skills-setup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> **The Ultimate Collection of 50+ Agentic Skills for Claude Code (Antigravity)**",
   "main": "index.js",
   "scripts": {
