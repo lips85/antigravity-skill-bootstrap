@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+.github
+
+# Build/Dependency
+node_modules
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# Agent Work
+.agent
+task.md
+implementation_plan.md
+task_boundary.md

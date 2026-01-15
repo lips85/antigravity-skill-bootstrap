@@ -1,0 +1,30 @@
+{
+  "name": "agv-skills-setup",
+  "version": "1.0.0",
+  "description": "> **The Ultimate Collection of 50+ Agentic Skills for Claude Code (Antigravity)**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lips85/antigravity-skill-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lips85/antigravity-skill-bootstrap/issues"
+  },
+  "homepage": "https://github.com/lips85/antigravity-skill-bootstrap#readme",
+  "bin": {
+    "agv-skills-setup": "./bin/cli.js"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2",
+    "fs-extra": "^11.3.3",
+    "ora": "^9.0.0"
+  }
+}
