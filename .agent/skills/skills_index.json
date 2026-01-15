@@ -1,0 +1,362 @@
+[
+  {
+    "id": "algorithmic-art",
+    "path": "algorithmic-art",
+    "name": "algorithmic-art",
+    "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations."
+  },
+  {
+    "id": "app-store-optimization",
+    "path": "app-store-optimization",
+    "name": "app-store-optimization",
+    "description": "Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store"
+  },
+  {
+    "id": "aws-penetration-testing",
+    "path": "aws-penetration-testing",
+    "name": "AWS Penetration Testing",
+    "description": "This skill should be used when the user asks to \"pentest AWS\", \"test AWS security\", \"enumerate IAM\", \"exploit cloud infrastructure\", \"AWS privilege escalation\", \"S3 bucket testing\", \"metadata SSRF\", \"Lambda exploitation\", or needs guidance on Amazon Web Services security assessment."
+  },
+  {
+    "id": "backend-dev-guidelines",
+    "path": "backend-dev-guidelines",
+    "name": "backend-dev-guidelines",
+    "description": "Comprehensive backend development guide for Node.js/Express/TypeScript microservices. Use when creating routes, controllers, services, repositories, middleware, or working with Express APIs, Prisma database access, Sentry error tracking, Zod validation, unifiedConfig, dependency injection, or async patterns. Covers layered architecture (routes → controllers → services → repositories), BaseController pattern, error handling, performance monitoring, testing strategies, and migration from legacy patterns."
+  },
+  {
+    "id": "brainstorming",
+    "path": "brainstorming",
+    "name": "brainstorming",
+    "description": "\"You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.\""
+  },
+  {
+    "id": "brand-guidelines",
+    "path": "brand-guidelines",
+    "name": "brand-guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply."
+  },
+  {
+    "id": "canvas-design",
+    "path": "canvas-design",
+    "name": "canvas-design",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations."
+  },
+  {
+    "id": "claude-d3js-skill",
+    "path": "claude-d3js-skill",
+    "name": "d3-viz",
+    "description": "Creating interactive data visualisations using d3.js. This skill should be used when creating custom charts, graphs, network diagrams, geographic visualisations, or any complex SVG-based data visualisation that requires fine-grained control over visual elements, transitions, or interactions. Use this for bespoke visualisations beyond standard charting libraries, whether in React, Vue, Svelte, vanilla JavaScript, or any other environment."
+  },
+  {
+    "id": "content-creator",
+    "path": "content-creator",
+    "name": "content-creator",
+    "description": "Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creating social media content, analyzing brand voice, optimizing SEO, planning content calendars, or when user mentions content creation, brand voice, SEO optimization, social media marketing, or content strategy."
+  },
+  {
+    "id": "convert-other-to-antigravity-skills",
+    "path": "convert-other-to-antigravity-skills",
+    "name": "Convert Other to Antigravity Skills",
+    "description": "Converts existing skills to the Antigravity standard (Project-root relative paths, uv dependency management)."
+  },
+  {
+    "id": "core-components",
+    "path": "core-components",
+    "name": "core-components",
+    "description": "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library."
+  },
+  {
+    "id": "dispatching-parallel-agents",
+    "path": "dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
+  },
+  {
+    "id": "doc-coauthoring",
+    "path": "doc-coauthoring",
+    "name": "doc-coauthoring",
+    "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks."
+  },
+  {
+    "id": "docx",
+    "path": "docx",
+    "name": "docx",
+    "description": "\"Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks\""
+  },
+  {
+    "id": "ethical-hacking-methodology",
+    "path": "ethical-hacking-methodology",
+    "name": "Ethical Hacking Methodology",
+    "description": "This skill should be used when the user asks to \"learn ethical hacking\", \"understand penetration testing lifecycle\", \"perform reconnaissance\", \"conduct security scanning\", \"exploit vulnerabilities\", or \"write penetration test reports\". It provides comprehensive ethical hacking methodology and techniques."
+  },
+  {
+    "id": "executing-plans",
+    "path": "executing-plans",
+    "name": "executing-plans",
+    "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints"
+  },
+  {
+    "id": "file-organizer",
+    "path": "file-organizer",
+    "name": "file-organizer",
+    "description": "Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures. Use when user wants to clean up directories, organize downloads, remove duplicates, or restructure projects."
+  },
+  {
+    "id": "finishing-a-development-branch",
+    "path": "finishing-a-development-branch",
+    "name": "finishing-a-development-branch",
+    "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup"
+  },
+  {
+    "id": "frontend-design",
+    "path": "frontend-design",
+    "name": "frontend-design",
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics."
+  },
+  {
+    "id": "frontend-dev-guidelines",
+    "path": "frontend-dev-guidelines",
+    "name": "frontend-dev-guidelines",
+    "description": "Frontend development guidelines for React/TypeScript applications. Modern patterns including Suspense, lazy loading, useSuspenseQuery, file organization with features directory, MUI v7 styling, TanStack Router, performance optimization, and TypeScript best practices. Use when creating components, pages, features, fetching data, styling, routing, or working with frontend code."
+  },
+  {
+    "id": "git-commit-formatter",
+    "path": "git-commit-formatter",
+    "name": "git-commit-formatter",
+    "description": "Formats git commit messages according to Conventional Commits specification. Use this when the user asks to commit changes or write a commit message."
+  },
+  {
+    "id": "git-pushing",
+    "path": "git-pushing",
+    "name": "git-pushing",
+    "description": "Stage, commit, and push git changes with conventional commit messages. Use when user wants to commit and push changes, mentions pushing to remote, or asks to save and push their work. Also activates when user says \"push changes\", \"commit and push\", \"push this\", \"push to github\", or similar git workflow requests."
+  },
+  {
+    "id": "internal-comms",
+    "path": "internal-comms",
+    "name": "internal-comms",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.)."
+  },
+  {
+    "id": "kaizen",
+    "path": "kaizen",
+    "name": "kaizen",
+    "description": "Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements."
+  },
+  {
+    "id": "linux-shell-scripting",
+    "path": "linux-shell-scripting",
+    "name": "Linux Production Shell Scripts",
+    "description": "This skill should be used when the user asks to \"create bash scripts\", \"automate Linux tasks\", \"monitor system resources\", \"backup files\", \"manage users\", or \"write production shell scripts\". It provides ready-to-use shell script templates for system administration."
+  },
+  {
+    "id": "loki-mode",
+    "path": "loki-mode",
+    "name": "loki-mode",
+    "description": "Multi-agent autonomous startup system for Claude Code. Triggers on \"Loki Mode\". Orchestrates 100+ specialized agents across engineering, QA, DevOps, security, data/ML, business operations, marketing, HR, and customer success. Takes PRD to fully deployed, revenue-generating product with zero human intervention. Features Task tool for subagent dispatch, parallel code review with 3 specialized reviewers, severity-based issue triage, distributed task queue with dead letter handling, automatic deployment to cloud providers, A/B testing, customer feedback loops, incident response, circuit breakers, and self-healing. Handles rate limits via distributed state checkpoints and auto-resume with exponential backoff. Requires --dangerously-skip-permissions flag."
+  },
+  {
+    "id": "mcp-builder",
+    "path": "mcp-builder",
+    "name": "mcp-builder",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
+  },
+  {
+    "id": "notebooklm",
+    "path": "notebooklm",
+    "name": "notebooklm",
+    "description": "Use this skill to query your Google NotebookLM notebooks directly from Claude Code for source-grounded, citation-backed answers from Gemini. Browser automation, library management, persistent auth. Drastically reduced hallucinations through document-only responses."
+  },
+  {
+    "id": "pdf",
+    "path": "pdf",
+    "name": "pdf",
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale."
+  },
+  {
+    "id": "pentest-checklist",
+    "path": "pentest-checklist",
+    "name": "Pentest Checklist",
+    "description": "This skill should be used when the user asks to \"plan a penetration test\", \"create a security assessment checklist\", \"prepare for penetration testing\", \"define pentest scope\", \"follow security testing best practices\", or needs a structured methodology for penetration testing engagements."
+  },
+  {
+    "id": "planning-with-files",
+    "path": "planning-with-files",
+    "name": "planning-with-files",
+    "description": "Implements Manus-style file-based planning for complex tasks. Creates task_plan.md, findings.md, and progress.md. Use when starting complex multi-step tasks, research projects, or any task requiring >5 tool calls."
+  },
+  {
+    "id": "playwright-skill",
+    "path": "playwright-skill",
+    "name": "playwright-skill",
+    "description": "Complete browser automation with Playwright. Auto-detects dev servers, writes clean test scripts to /tmp. Test pages, fill forms, take screenshots, check responsive design, validate UX, test login flows, check links, automate any browser task. Use when user wants to test websites, automate browser interactions, validate web functionality, or perform any browser-based testing."
+  },
+  {
+    "id": "pptx",
+    "path": "pptx",
+    "name": "pptx",
+    "description": "\"Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks\""
+  },
+  {
+    "id": "product-manager-toolkit",
+    "path": "product-manager-toolkit",
+    "name": "product-manager-toolkit",
+    "description": "Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritization, user research synthesis, requirement documentation, and product strategy development."
+  },
+  {
+    "id": "prompt-engineering",
+    "path": "prompt-engineering",
+    "name": "prompt-engineering",
+    "description": "Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to improve prompts, learn prompting strategies, or debug agent behavior."
+  },
+  {
+    "id": "react-ui-patterns",
+    "path": "react-ui-patterns",
+    "name": "react-ui-patterns",
+    "description": "Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states."
+  },
+  {
+    "id": "receiving-code-review",
+    "path": "receiving-code-review",
+    "name": "receiving-code-review",
+    "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation"
+  },
+  {
+    "id": "requesting-code-review",
+    "path": "requesting-code-review",
+    "name": "requesting-code-review",
+    "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements"
+  },
+  {
+    "id": "senior-architect",
+    "path": "senior-architect",
+    "name": "senior-architect",
+    "description": "Comprehensive software architecture skill for designing scalable, maintainable systems using ReactJS, NextJS, NodeJS, Express, React Native, Swift, Kotlin, Flutter, Postgres, GraphQL, Go, Python. Includes architecture diagram generation, system design patterns, tech stack decision frameworks, and dependency analysis. Use when designing system architecture, making technical decisions, creating architecture diagrams, evaluating trade-offs, or defining integration patterns."
+  },
+  {
+    "id": "senior-fullstack",
+    "path": "senior-fullstack",
+    "name": "senior-fullstack",
+    "description": "Comprehensive fullstack development skill for building complete web applications with React, Next.js, Node.js, GraphQL, and PostgreSQL. Includes project scaffolding, code quality analysis, architecture patterns, and complete tech stack guidance. Use when building new projects, analyzing code quality, implementing design patterns, or setting up development workflows."
+  },
+  {
+    "id": "skill-creator",
+    "path": "skill-creator",
+    "name": "skill-creator",
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations."
+  },
+  {
+    "id": "skill-developer",
+    "path": "skill-developer",
+    "name": "skill-developer",
+    "description": "Create and manage Claude Code skills following Anthropic best practices. Use when creating new skills, modifying skill-rules.json, understanding trigger patterns, working with hooks, debugging skill activation, or implementing progressive disclosure. Covers skill structure, YAML frontmatter, trigger types (keywords, intent patterns, file paths, content patterns), enforcement levels (block, suggest, warn), hook mechanisms (UserPromptSubmit, PreToolUse), session tracking, and the 500-line rule."
+  },
+  {
+    "id": "slack-gif-creator",
+    "path": "slack-gif-creator",
+    "name": "slack-gif-creator",
+    "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\""
+  },
+  {
+    "id": "software-architecture",
+    "path": "software-architecture",
+    "name": "software-architecture",
+    "description": "Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development."
+  },
+  {
+    "id": "subagent-driven-development",
+    "path": "subagent-driven-development",
+    "name": "subagent-driven-development",
+    "description": "Use when executing implementation plans with independent tasks in the current session"
+  },
+  {
+    "id": "systematic-debugging",
+    "path": "systematic-debugging",
+    "name": "systematic-debugging",
+    "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes"
+  },
+  {
+    "id": "test-driven-development",
+    "path": "test-driven-development",
+    "name": "test-driven-development",
+    "description": "Use when implementing any feature or bugfix, before writing implementation code"
+  },
+  {
+    "id": "test-fixing",
+    "path": "test-fixing",
+    "name": "test-fixing",
+    "description": "Run tests and systematically fix all failing tests using smart error grouping. Use when user asks to fix failing tests, mentions test failures, runs test suite and failures occur, or requests to make tests pass."
+  },
+  {
+    "id": "testing-patterns",
+    "path": "testing-patterns",
+    "name": "testing-patterns",
+    "description": "Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle."
+  },
+  {
+    "id": "theme-factory",
+    "path": "theme-factory",
+    "name": "theme-factory",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly."
+  },
+  {
+    "id": "top-web-vulnerabilities",
+    "path": "top-web-vulnerabilities",
+    "name": "Top 100 Web Vulnerabilities Reference",
+    "description": "This skill should be used when the user asks to \"identify web application vulnerabilities\", \"explain common security flaws\", \"understand vulnerability categories\", \"learn about injection attacks\", \"review access control weaknesses\", \"analyze API security issues\", \"assess security misconfigurations\", \"understand client-side vulnerabilities\", \"examine mobile and IoT security flaws\", or \"reference the OWASP-aligned vulnerability taxonomy\". Use this skill to provide comprehensive vulnerability definitions, root causes, impacts, and mitigation strategies across all major web security categories."
+  },
+  {
+    "id": "ui-ux-pro-max",
+    "path": "ui-ux-pro-max",
+    "name": "ui-ux-pro-max",
+    "description": "\"UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 8 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind). Actions: plan, build, create, design, implement, review, fix, improve, optimize, enhance, refactor, check UI/UX code. Projects: website, landing page, dashboard, admin panel, e-commerce, SaaS, portfolio, blog, mobile app, .html, .tsx, .vue, .svelte. Elements: button, modal, navbar, sidebar, card, table, form, chart. Styles: glassmorphism, claymorphism, minimalism, brutalism, neumorphism, bento grid, dark mode, responsive, skeuomorphism, flat design. Topics: color palette, accessibility, animation, layout, typography, font pairing, spacing, hover, shadow, gradient.\""
+  },
+  {
+    "id": "using-git-worktrees",
+    "path": "using-git-worktrees",
+    "name": "using-git-worktrees",
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification"
+  },
+  {
+    "id": "using-superpowers",
+    "path": "using-superpowers",
+    "name": "using-superpowers",
+    "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions"
+  },
+  {
+    "id": "verification-before-completion",
+    "path": "verification-before-completion",
+    "name": "verification-before-completion",
+    "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always"
+  },
+  {
+    "id": "web-artifacts-builder",
+    "path": "web-artifacts-builder",
+    "name": "web-artifacts-builder",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts."
+  },
+  {
+    "id": "webapp-testing",
+    "path": "webapp-testing",
+    "name": "webapp-testing",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs."
+  },
+  {
+    "id": "writing-plans",
+    "path": "writing-plans",
+    "name": "writing-plans",
+    "description": "Use when you have a spec or requirements for a multi-step task, before touching code"
+  },
+  {
+    "id": "writing-skills",
+    "path": "writing-skills",
+    "name": "writing-skills",
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment"
+  },
+  {
+    "id": "xlsx",
+    "path": "xlsx",
+    "name": "xlsx",
+    "description": "\"Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas\""
+  }
+]
